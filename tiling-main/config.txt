@@ -1,0 +1,2 @@
+yolosample/"C:\Users\jen_bim-y\Desktop\Desktop\yolov5-master\tiling-main\yolosample"
+yolosliced/"C:\Users\jen_bim-y\Desktop\Desktop\yolov5-master\tiling-main\yolosliced"
